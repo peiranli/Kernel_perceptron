@@ -1,1 +1,1 @@
-# Kernel_perceptron
+# linear classification
